@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "maftools"]
-	path = maftools
-	url = https://github.com/poisonalien/maftools
-	shallow = true
-	registered = true
